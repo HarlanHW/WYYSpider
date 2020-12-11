@@ -47,8 +47,8 @@ def get_user_list(url):
             #next[-1].click()
             #time.sleep(2)
             #print(driver.text)
-            nextbtn=driver.find_element_by_id("page")
-            nextbtn.find_element_by_xpath('//div/a[@class="zbtn znxt js-n-1606806318947"]').click()
+            #nextbtn=driver.find_element_by_id("page")
+            #nextbtn.find_element_by_xpath('//div/a[@class="zbtn znxt js-n-1606806318947"]').click()
            #js = 'document.getElementsByClassName("prefpanelgo")[0].click()'
            #driver.execute_script(js)
            #driver.switch_to.frame("g_iframe")  # 4.用WebElement对象来定位
